@@ -1,4 +1,7 @@
 
+# > 哈啰
+host-keyword, assets.51downapp.cn, reject
+
 # > 云闪付
 host-keyword, switch.cup.com.cn, reject
 host-keyword, sdk.open.talk.getui.net, reject
