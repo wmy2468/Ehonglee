@@ -51,13 +51,7 @@ HOST,adm1.autoimg.cn, reject
 HOST,adm2.autoimg.cn, reject
 HOST,adm3.autoimg.cn, reject
 
-# > 字节跳动
-HOST-SUFFIX,pangolin-sdk-toutiao.com, reject
-HOST-SUFFIX,pangolin-sdk-toutiao-b.com, reject
-HOST-SUFFIX,api-access.pangolin-sdk-toutiao-b.com, reject
-HOST,ad.toutiao.com, reject
-HOST,dsp.toutiao.com, reject
-host-keyword,pangolin.snssdk.com, reject
+
 
 # > 中国电信
 HOST,ad.21cn.com, reject
