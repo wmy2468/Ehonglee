@@ -12,6 +12,7 @@ host-keyword, ads.95516.com, reject
 # > 搜狗输入法
 host-keyword, business-cdn.shouji.sogou.com, reject
 # > 高德
+host-keyword, ossgw.alicdn.com,REJECT
 HOST-SUFFIX,adiu.amap.com,REJECT
 HOST,aboard.apilocate.amap.com,REJECT
 HOST,apiinit.amap.com,REJECT
